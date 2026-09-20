@@ -1,0 +1,39 @@
+{
+  "name": "PhotoYouDidntTake",
+  "lastModified": "Sun, 20 Sep 2026 08:44:00 GMT",
+  "version": "3.9.2",
+  "internalVersion": "3.3.0",
+  "toolName": "Effect House",
+  "projectID": "6f8c4e2a-7d31-4a96-9b22-5c0f1e7a3d84",
+  "created": {
+    "toolName": "Effect House",
+    "version": "3.9.2",
+    "osName": "macos",
+    "timeStamp": "Sun, 20 Sep 2026 08:44:00 GMT"
+  },
+  "renderNames": {
+    "0": "Default Layer",
+    "1": "Camera UI",
+    "2": "Photo 01",
+    "3": "Photo 02",
+    "4": "Photo 03",
+    "5": "Flash",
+    "6": "Final Text"
+  },
+  "durationToCreate": 0,
+  "durationCreation": 0,
+  "durationBackground": 0,
+  "autoResetEffect": false,
+  "selectedIdList": [],
+  "effectHint": "Look at the camera",
+  "templateID": "",
+  "templateName": "",
+  "perfTested": false,
+  "lastSceneView": 1,
+  "LastVideoInput": {
+    "type": "preview_face",
+    "name": "preview_face_idle||1",
+    "index": 0,
+    "resourceUrl": "./BuiltinResource/preview/video/preview_face/idle/1person_faceidle_1.mp4"
+  }
+}
